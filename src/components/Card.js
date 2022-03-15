@@ -7,7 +7,7 @@ function Card() {
       <img className="card--image" src={katieImage} alt="" />
 
       <div className="card--stats">
-        <img src={star} className="card--star" />
+        <img src={star} className="card--star" alt="Alternative Star" />
         <span>5.0</span>
         <span className="gray">(6) ⁕ </span>
         <span className="gray">USA</span>
